@@ -8,8 +8,8 @@
 	<link
 		href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&amp;subset=devanagari,latin-ext"
 		rel="stylesheet">
-	<title>Browny</title>
-	<link rel="shortcut icon" type="image/icon" href="assets/logo/favicon.png" />
+	<title>Neru</title>
+	<link rel="shortcut icon" type="image/icon" href="assets/logo/logo.png" />
 	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
 	<link rel="stylesheet" href="assets/css/flaticon.css">
 	<link rel="stylesheet" href="assets/css/animate.css">
@@ -39,6 +39,7 @@
 							<li class=" smooth-menu active"></li>
 							<li class="smooth-menu"><a href="#experience">experience</a></li>
 							<li class="smooth-menu"><a href="#portfolio">portfolio</a></li>
+							<li class="smooth-menu"><a href="#parents">parents</a></li>
 							<li class="smooth-menu"><a href="#contact">contact</a></li>
 						</ul>
 					</div>
@@ -385,18 +386,36 @@
 			</div>
 			<div class="container">
 				<div class="portfolio-content">
-					<div class="isotope">
-						<div class="row">
-							<div class="col-sm-12">
-								<div class="item">
+					<div class="isotope" style="    display: flex;
+					align-content: center;
+					justify-content: space-evenly;
+				">
 									<img src="assets/images/portfolio/123.jpeg" alt="portfolio image" />
 									<div class="isotope-overlay">
 										
 									</div>
-								</div>
-							</div>
 						</div>
 					</div>
+				</div>
+			</div>
+		</div>
+
+	</section>
+
+		
+	<section id="parents" class="portfolio">
+		<div class="portfolio-details">
+			<div class="section-heading text-center">
+				<h2>Partners</h2>
+			</div>
+			<div class="container list-parents">
+				
+				<ul >
+					<li><img src="https://humo.tj/bitrix/templates/humo/images/logo_ru.png" width="700"  alt=""></li>
+					<li><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Official_logo_of_Alif_Bank_in_Tajikistan.png"  width="700" alt=""></li>
+					<li><img src="https://unicat.msf.org/web/image/product.template/545678/image_1024?unique=765aac8"  width="700" alt=""></li>
+					<li><img src="https://aloqabank.uz/upload/iblock/9d6/3qpkrseih459iilbfdb73mfx040a7wwx/zyplai_big.webp"  width="700" alt=""></li>
+				</ul>
 				</div>
 			</div>
 		</div>
@@ -446,15 +465,15 @@
 						<div class="single-contact-box">
 							<div class="contact-adress">
 								<div class="contact-add-head">
-									<h3>phone</h3>
-									<p>+992 93 564 20 20</p>
+									
+									<a href="tel:+935642020"><h3 >phone (+992) 93 564 20 20</h3></a>
 								</div>
 								<div class="contact-add-info">
 									<div class="single-contact-add-info">
 									</div>
 									<div class="single-contact-add-info">
-										<h3>email</h3>
-										<p>neruitoza@gmail.com</p>
+										<h3>email neruitoza@gmail.com</h3>
+										
 									</div>
 								</div>
 							</div>
@@ -492,6 +511,23 @@
 	<script src="assets/js/owl.carousel.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
 	<script src="assets/js/custom.js"></script>
+
+<style>
+	.list-parents ul  {
+		float: left;
+		display: flex;
+		align-items: center;
+	}
+
+
+	
+
+@media (max-width: 768px) {
+    .list-parents ul {
+		flex-direction: column;
+    }
+}
+</style>
 
 </body>
 
