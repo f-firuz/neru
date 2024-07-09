@@ -1,0 +1,498 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link
+		href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&amp;subset=devanagari,latin-ext"
+		rel="stylesheet">
+	<title>Browny</title>
+	<link rel="shortcut icon" type="image/icon" href="assets/logo/favicon.png" />
+	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+	<link rel="stylesheet" href="assets/css/flaticon.css">
+	<link rel="stylesheet" href="assets/css/animate.css">
+	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/css/bootsnav.css">
+	<link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="assets/css/responsive.css">
+</head>
+
+<body>
+	<header class="top-area">
+		<div class="header-area">
+			<nav class="navbar navbar-default bootsnav navbar-fixed dark no-background">
+				<div class="container">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+							<i class="fa fa-bars"></i>
+						</button>
+						<a class="navbar-brand" href="index.html">browny</a>
+					</div>
+					<div class="collapse navbar-collapse menu-ui-design" id="navbar-menu">
+						<ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
+							<li class=" smooth-menu active"></li>
+							<li class="smooth-menu"><a href="#experience">experience</a></li>
+							<li class="smooth-menu"><a href="#portfolio">portfolio</a></li>
+							<li class="smooth-menu"><a href="#contact">contact</a></li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+		</div>
+		<div class="clearfix"></div>
+	</header>
+	<section id="welcome-hero" class="welcome-hero">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<div class="header-text">
+						<h2>Goals <span>,</span>Objectives and Activities <br> of the Organization <span>.</span> </h2>
+						<p>The purpose of the organization is to promote the development of the economy, social sphere,
+							healthcare, education and science, energy, renewable energy sources, tourism, ecology,
+							agriculture, animal husbandry, horticulture, beekeeping, legal and cultural issues, increase
+							legal awareness, public health, and promote, restoration and improvement of the level of
+							spiritual life, development of a healthy and enlightened personality, patriotic and
+							humanitarian education of youth, support for vulnerable segments of the population.
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</section>
+	<section id="experience" class="experience">
+		<div class="section-heading text-center">
+			<h2>experience</h2>
+		</div>
+		<div class="container">
+			<div class="experience-content">
+				<div class="main-timeline">
+					<ul>
+						<li>
+							<div class="single-timeline-box fix">
+								<div class="row">
+									<div class="col-md-5">
+										<div class="experience-time text-right">
+											<h2>June 2022. </h2>
+											<h3>Project description: Organization of the Regional Conference on
+												Prospects for renewable energy development in Central Asian countries.
+											</h3>
+											<h3>Donor: USAID, Branch of corporation Tetra Tech ES, Inc.</h3>
+											<h3>Monetary value: </h3>
+										</div>
+									</div>
+									<div class="col-md-offset-1 col-md-5">
+										<div class="timeline">
+											<div class="timeline-content">
+												<h4 class="title">
+													<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+													Activities:
+												</h4>
+												<h5>newyork, USA</h5>
+												<p class="description">
+													- Production/Provision of branded distributing materials (includes
+													Eco bags, notebooks, pens, external drives, badges, banner) and
+													stationary (includes paper, pencils etc.)
+													- Development, design and printing of brochures (in 3 languages) and
+													photo albums
+													- Provide photography services during the event
+													- Printing all conference papers/ materials prior and during the
+													event
+													- Working with the media (TV Tajikistan, TV Safina, AP Asia Plus)
+													under the contract to organize and schedule media coverage for the
+													event in coordination with the assigned government partner
+													institution
+													- Working with advertising and social networks to cover the event
+													- Providing transport services for a one-day site visit to Nurek
+													(comfortable buses: Dushanbe-Nurek-Dushanbe) for up to 60
+													participants of the event.
+													- Providing meals (one lunch in Nurek city and one dinner for 60
+													people) – the successful bidder should organize catering services
+													for the group in Nurek.
+													- Provide event registration and logistics support during the event.
+													The potential bidder should include up to 2 labor support for 3 days
+													to support the event organization and logistics pre and during the
+													event.
+
+
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="single-timeline-box fix">
+								<div class="row">
+									<div class="col-md-5">
+										<div class="experience-time text-right">
+											<h2>October 2022.</h2>
+											<h3>Project description: Training for users of greenhouse solar station for
+												growing seeds of local vegetables and herbs in Rasht district
+											</h3>
+											<h3>Donor: UNDP</h3>
+											<h3>Monetary value: </h3>
+										</div>
+									</div>
+									<div class="col-md-offset-1 col-md-5">
+										<div class="timeline">
+											<div class="timeline-content">
+												<h4 class="title">
+													<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+													Activities:
+												</h4>
+												<h5>newyork, USA</h5>
+												<p class="description">
+													Training for users of all systems in accordance with the relevant
+													installation standards.
+
+													User training
+													- User training for operation and maintenance, 4-hour training /
+													practical demonstration on the topics:
+													- Safety aspects of photovoltaic systems
+													- Familiarity with the main components of the system
+													- Handling and operating instructions to maximize service life
+													- Troubleshooting and Troubleshooting
+													- Warranty procedures, service options
+													After the training, the beneficiary was given a technical manual in
+													Russian containing the above information. Booklet A5, about 10
+													pages.
+
+
+
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="single-timeline-box fix">
+								<div class="row">
+									<div class="col-md-5">
+										<div class="experience-time text-right">
+											<h2>April 20, 2023 </h2>
+											<h3>Project description: Empowering rural women in the energy sector.
+											</h3>
+											<h3>Donor: OSCE</h3>
+											<h3>Monetary value: </h3>
+										</div>
+									</div>
+									<div class="col-md-offset-1 col-md-5">
+										<div class="timeline">
+											<div class="timeline-content">
+												<h4 class="title">
+													<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+													Activities:
+												</h4>
+												<h5>newyork, USA</h5>
+												<p class="description">
+													- Assessment of energy access and energy security challenges faced
+													by women living in the Yaghnob Valley and more specifically in 20
+													target households that will be selected for this project in
+													agreement with relevant authorities.
+													- Preparation of material / indicators / surveys, and detailed
+													definition of the project activities with agenda, trainers, LoP and
+													media/communication coverage
+													- Delivery of decentralized clean energy devices to be purchased by
+													the OSCE to a target group of 20 female-headed households living in
+													the Yaghnob Valley, train the recipients on how to make the best use
+													of the given devices, and track their impact.
+													- Agency-based empowerment training, enhancing the awareness and
+													building the confidence of the group of 20 target women as active
+													agents of change in the energy value chain and local’s
+													socio-economic wellbeing.
+													- Case study and paper about the impact of decentralized energy
+													solutions on women’s wellbeing, and energy security in rural areas.
+													- Community sensitization workshop on women’s role across the energy
+													value chain, raising the awareness of local residents and leaders
+													about women’s role in community development through natural resource
+													management and the use of off-grid solutions.
+													- Roundtable on projects outcomes for participants and local
+													authorities to inform representatives of local authorities, project
+													participants and local activists about the outcome of the project
+													and steps to develop further cooperation
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="single-timeline-box fix">
+								<div class="row">
+									<div class="col-md-5">
+										<div class="experience-time text-right">
+											<h2>October 13, 2023</h2>
+											<h3>Project description: UNDP-GEF “Development of small and medium-sized
+												enterprises (SMEs) in the field of green energy”
+											</h3>
+											<h3>Donor: UNDP-GEF</h3>
+											<h3>Monetary value: </h3>
+										</div>
+									</div>
+									<div class="col-md-offset-1 col-md-5">
+										<div class="timeline">
+											<div class="timeline-content">
+												<h4 class="title">
+													<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+													Activities:
+												</h4>
+												<h5>newyork, USA</h5>
+												<p class="description">
+													- Creation of content for the brochure in Tajik, Russian and English
+													according to the structure below.
+													- Development of contents of the brochure “Investment opportunities
+													in Tajikistan in the energy sector”.
+													- Creation of content and sketch for a photo album with a
+													description.
+													- Content creation/Production of one video about energy lasting 7-8
+													minutes.
+
+
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="single-timeline-box fix">
+								<div class="row">
+									<div class="col-md-5">
+										<div class="experience-time text-right">
+											<h2>May- December, 2024 </h2>
+											<h3>Project description: “Improving energy access and resilience in
+												communities in Central Asia bordering Afghanistan: Sh. Shohin district,
+												Republic of Tajikistan”
+											</h3>
+											<h3>Donor: OSCE</h3>
+											<h3>Monetary value: </h3>
+										</div>
+									</div>
+									<div class="col-md-offset-1 col-md-5">
+										<div class="timeline">
+											<div class="timeline-content">
+												<h4 class="title">
+													<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+												</h4>
+												<h5>newyork, USA</h5>
+												<p class="description">
+													- Support the development of a Baseline assessment methodology,
+													organize and conduct a Baseline Assessment visit, and provide data
+													for a Baseline Summary Report
+													- Supervision of solar power systems delivery, installation
+													- Development of a Monitoring and Evaluation (M&E) methodology
+													- Organization of the handover ceremony
+													- Capacity-building and awareness-raising event
+													- Conduct 3 M&E in 6 months to targeting communities.
+													- Conduct final Assessment and submit Case Study.
+
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+
+						<li>
+							<div class="single-timeline-box fix">
+								<div class="row">
+									<div class="col-md-offset-1 col-md-5 experience-time-responsive">
+										<div class="experience-time">
+											<h2>
+												<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+
+											</h2>
+											<h3></h3>
+										</div>
+									</div>
+									<div class="col-md-5">
+										<div class="timeline">
+											<div class="timeline-content text-right">
+												<h4 class="title">
+
+												</h4>
+												<h5></h5>
+												<p class="description">
+
+												</p>
+											</div>
+										</div>
+									</div>
+									<div class="col-md-offset-1 col-md-5 experience-time-main">
+										<div class="experience-time">
+											<h2>
+												<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+
+											</h2>
+											<h3>
+
+
+											</h3>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+
+						<li>
+							<div class="single-timeline-box fix">
+								<div class="row">
+
+								</div>
+							</div>
+						</li>
+
+						<li>
+							<div class="single-timeline-box fix">
+								<div class="row">
+
+								</div>
+							</div>
+						</li>
+
+						<li>
+							<div class="single-timeline-box fix">
+								<div class="row">
+
+								</div>
+							</div>
+						</li>
+
+					</ul>
+				</div>
+			</div>
+		</div>
+
+	</section>
+	
+	<section id="portfolio" class="portfolio">
+		<div class="portfolio-details">
+			<div class="section-heading text-center">
+				<h2>portfolio</h2>
+			</div>
+			<div class="container">
+				<div class="portfolio-content">
+					<div class="isotope">
+						<div class="row">
+							<div class="col-sm-12">
+								<div class="item">
+									<img src="assets/images/portfolio/123.jpeg" alt="portfolio image" />
+									<div class="isotope-overlay">
+										<a href="#">
+											Бги дега
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</section>
+
+	<section id="contact" class="contact">
+		<div class="section-heading text-center">
+			<h2>contact me</h2>
+		</div>
+		<div class="container">
+			<div class="contact-content">
+				<div class="row">
+					<div class="col-md-offset-1 col-md-5 col-sm-6">
+						<div class="single-contact-box">
+							<div class="contact-form">
+								<form>
+									<div class="row">
+										<div class="col-sm-6 col-xs-12">
+											<div class="form-group">
+											  <h6>Name of organization </h6>
+											</div>
+										</div>
+										<div class="col-sm-6 col-xs-12">
+											<div class="form-group">
+												<h6><b>Public organization "Nerui Toza"</b></h6>
+											</div>
+										</div>
+									</div>
+									<div class="row">
+										<div class="col-sm-6 col-xs-12">
+											<div class="form-group">
+											  <h1>Executive Director </h1>
+											</div>
+										</div>
+										<div class="col-sm-6 col-xs-12">
+											<div class="form-group">
+												<h1><b>Samadov Rahim </b></h1>
+											</div>
+										</div>
+									</div>
+								</form>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-offset-1 col-md-5 col-sm-6">
+						<div class="single-contact-box">
+							<div class="contact-adress">
+								<div class="contact-add-head">
+									<h3>phone</h3>
+									<p>+992 93 564 20 20</p>
+								</div>
+								<div class="contact-add-info">
+									<div class="single-contact-add-info">
+									</div>
+									<div class="single-contact-add-info">
+										<h3>email</h3>
+										<p>neruitoza@gmail.com</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</section>
+	<footer id="footer-copyright" class="footer-copyright">
+		<div class="container">
+			<div class="hm-footer-copyright text-center">
+				<p>
+					2024
+				</p>
+			</div>
+		</div>
+
+		<div id="scroll-Top">
+			<div class="return-to-top">
+				<i class="fa fa-angle-up " id="scroll-top"></i>
+			</div>
+
+		</div>
+
+	</footer>
+	<script src="assets/js/jquery.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+	<script src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/bootsnav.js"></script>
+	<script src="assets/js/jquery.sticky.js"></script>
+	<script src="assets/js/progressbar.js"></script>
+	<script src="assets/js/jquery.appear.js"></script>
+	<script src="assets/js/owl.carousel.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+	<script src="assets/js/custom.js"></script>
+
+</body>
+
+</html>
